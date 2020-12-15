@@ -1,0 +1,118 @@
+@media all and (max-width: 824px){
+
+    .header-nav nav ul li a {
+        margin: 0px 30px;
+        font-size: 11px;
+    }
+
+}
+@media all and (max-width: 768px){
+
+    .reppresent-container {
+        background: none;
+    }
+    .reppresent-header {
+        width: 72%;
+        margin: 23px auto;
+        text-align: center;
+    }
+    .reppresent-details {
+        width: 72%;
+        margin: 41px auto 0 auto;
+    }
+    .reppresent-btn {
+        text-align: center;
+    }
+    .design-container {
+        background: none;
+    }
+    .design-header {
+        width: 72%;
+        margin: 23px auto;
+        text-align: center;
+    }
+    .design-right-area {
+        width: 72%;
+        margin: 23px auto;
+        text-align: center;
+        float: none;
+    }
+    .design-arrow i {
+        margin: 16px;
+    }
+    .community-slider-arrow {
+        display: none;
+    }
+    .community-container {
+        width: 57%;
+    }
+    .community-slider .community-slider-item {
+        width: 100%;
+        float: none;
+    }
+
+}
+@media all and (max-width: 630px){
+
+    .header-nav nav ul li a {
+        margin: 0px 17px;
+        font-size: 10px;
+    }
+
+}
+@media all and (max-width: 486px){
+
+    .header-nav nav ul li {
+        display: block;
+    }
+    .header-nav nav ul .logo {
+        display: none;
+    }
+    .header-nav nav ul li a {
+        margin: 0px 17px;
+        font-size: 16px;
+        padding: 6px;
+    }
+    .header-nav nav ul .logo-mobile {
+        display: block;
+    }
+}
+
+@media all and (max-width: 429px){
+
+    .download-area .download-container .app-play-btn h2 a {
+        padding: 25px 34px 20px 11px;
+    }
+    .footer-logo {
+        float: none;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .copy-nav-area {
+        float: none;
+        width: 100%;
+    }
+
+}
+@media all and (max-width: 374px){
+
+    .download-area .download-container .app-play-btn h2 a {
+        padding: 25px 34px 20px 11px;
+    }
+    .footer-logo {
+        float: none;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .copy-nav-area {
+        float: none;
+        width: 100%;
+    }
+    .subscribe-form form {
+        width: 296px;
+    }
+    .subscribe-form input {
+        width: 65%;
+    }
+
+}
